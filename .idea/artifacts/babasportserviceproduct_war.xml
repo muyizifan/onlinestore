@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="babasportserviceproduct:war">
+    <output-path>$PROJECT_DIR$/babasportserviceproduct/target</output-path>
+    <root id="archive" name="babasport-service-product.war">
+      <element id="artifact" artifact-name="babasportserviceproduct:war exploded" />
+    </root>
+  </artifact>
+</component>

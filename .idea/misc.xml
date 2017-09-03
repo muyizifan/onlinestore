@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/babasportcommon" />
+    <file type="web" url="file://$PROJECT_DIR$/babasportconsole" />
+    <file type="web" url="file://$PROJECT_DIR$/babasportdao" />
+    <file type="web" url="file://$PROJECT_DIR$/babasportinterface" />
+    <file type="web" url="file://$PROJECT_DIR$/babasportlogin" />
+    <file type="web" url="file://$PROJECT_DIR$/babasportpojo" />
+    <file type="web" url="file://$PROJECT_DIR$/babasportportal" />
+    <file type="web" url="file://$PROJECT_DIR$/babasportservicecms" />
+    <file type="web" url="file://$PROJECT_DIR$/babasportserviceordercob" />
+    <file type="web" url="file://$PROJECT_DIR$/babasportserviceproduct" />
+    <file type="web" url="file://$PROJECT_DIR$/babasportservicesolr" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

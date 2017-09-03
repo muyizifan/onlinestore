@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/babasportcommon/babasportcommon.iml" filepath="$PROJECT_DIR$/babasportcommon/babasportcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasportconsole/babasportconsole.iml" filepath="$PROJECT_DIR$/babasportconsole/babasportconsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasportdao/babasportdao.iml" filepath="$PROJECT_DIR$/babasportdao/babasportdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasportinterface/babasportinterface.iml" filepath="$PROJECT_DIR$/babasportinterface/babasportinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasportlogin/babasportlogin.iml" filepath="$PROJECT_DIR$/babasportlogin/babasportlogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasportpojo/babasportpojo.iml" filepath="$PROJECT_DIR$/babasportpojo/babasportpojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasportportal/babasportportal.iml" filepath="$PROJECT_DIR$/babasportportal/babasportportal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasportservicecms/babasportservicecms.iml" filepath="$PROJECT_DIR$/babasportservicecms/babasportservicecms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasportserviceordercob/babasportserviceordercob.iml" filepath="$PROJECT_DIR$/babasportserviceordercob/babasportserviceordercob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasportserviceproduct/babasportserviceproduct.iml" filepath="$PROJECT_DIR$/babasportserviceproduct/babasportserviceproduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasportservicesolr/babasportservicesolr.iml" filepath="$PROJECT_DIR$/babasportservicesolr/babasportservicesolr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+    </modules>
+  </component>
+</project>
