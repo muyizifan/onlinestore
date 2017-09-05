@@ -2,6 +2,7 @@ package cn.itcast;
 
 import cn.itcast.core.bean.TestTb;
 import cn.itcast.core.dao.TestTbDao;
+import cn.itcast.core.service.TestTbService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,13 +20,13 @@ import java.util.Date;
 public class TestTbTest {
 
     @Autowired
-    private TestTbDao testTbDao;
+    private TestTbService testTbService;
 
     @Test
     public void testAdd() throws Exception{
         TestTb testTb=new TestTb();
-        testTb.setName("范冰冰");
+        testTb.setName("范冰冰2");
         testTb.setBirthday(new Date());
-        testTbDao.insertTestTb(testTb);
+        testTbService.insertTestTb(testTb);
     }
 }
