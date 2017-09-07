@@ -11,7 +11,7 @@ import org.springframework.transaction.annotation.Transactional;
  * 测试
  * @author 1x
  */
-@Service
+@Service("testTbService")
 @Transactional
 public class TestTbServiceImpl implements TestTbService{
 
